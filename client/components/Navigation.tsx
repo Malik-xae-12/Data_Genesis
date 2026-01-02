@@ -36,7 +36,7 @@ export default function Navigation() {
               className="flex items-center gap-3 focus:outline-none hover:opacity-80 transition-opacity"
             >
               <img
-                src="/logo-removebg-preview.png" 
+                src="/logo.png" 
                 alt="Data Genesis Logo"
                 className="h-auto w-[133px] rounded-lg object-contain"
               />
